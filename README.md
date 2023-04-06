@@ -13,7 +13,8 @@ hangman(folder)
 └── trail.js
 ```
 ## Project-gif
-![hangman](https://user-images.githubusercontent.com/123119953/230372864-0b5743fd-9e1f-4b5d-9af4-f389d4e44362.gif)
+![hangmanv2](https://user-images.githubusercontent.com/123119953/230375895-3990f0d2-cd83-447d-804a-7bc3e221bb77.gif)
+
 
 
 ## Project-link
