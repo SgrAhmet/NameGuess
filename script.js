@@ -31,7 +31,7 @@ while (right < 6 && area.includes("_")) {
   document.getElementById("dom").innerHTML = area;
 }
 
-console.log(`ahmet hıyardr`);
+
 
 console.log(right);
 console.log(area.join(" "), theWord);
