@@ -1,6 +1,6 @@
-# Hangman
+# NameGuess
 ## Description
-Project aims to create a Hangman Game with pure css.
+Project aims to create a NameGuess Game with pure css.
 
 ## Project Skeleton
 ```
