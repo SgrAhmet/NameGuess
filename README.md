@@ -18,7 +18,7 @@ hangman(folder)
 
 
 ## Project-link
-https://sgrahmet.github.io/Hangman/
+https://sgrahmet.github.io/NameGuess/
 ### At the end of the project, following topics are to be covered;
 - HTML
 - CSS
